@@ -3,7 +3,7 @@ Ce projet se concentre sur l'analyse de la base de données HMEQ (Home Equity) p
 
 Pour activer l'environnement virtuel, exécutez les commandes suivantes :
 
-````
+```
 python -m venv .venv
 source .venv/bin/activate  # Pour MacOS/Linux
 .venv\Scripts\activate      # Pour Windows
